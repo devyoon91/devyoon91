@@ -1,6 +1,3 @@
-<img src="https://i.ibb.co/3WcpxRL/image.jpg" alt="image" border="0">
-
-
 # 👨‍💻
 
 
